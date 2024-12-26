@@ -1,0 +1,33 @@
+{
+    "data":[
+        {
+            "title": "Revenue",
+            "status": "loss",
+            "percentage": "10%",
+            "icon": "BsArrowUpRightCircleFill",
+            "data": "$2.047"
+          },
+          {
+              "title":"Orders",
+              "status":"profit",
+              "percentage":"20%",
+              "icon":"IoMdCart",
+              "data":"356"
+          },
+          {
+              "title":"Dine in",
+              "status":"profit",
+              "percentage":"10%",
+              "icon":"RiRestaurant2Fill",
+              "data":"220"
+          },
+          {
+              "title":"Take away",
+              "status":"loss",
+              "percentage":"5%",
+              "icon":"RiDrinksFill",
+              "data":"135"
+          }
+          
+    ]
+}
